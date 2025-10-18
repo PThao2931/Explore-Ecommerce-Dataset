@@ -2,11 +2,10 @@
 Query 1: Tổng quan traffic theo tháng (Q1/2017)
 Làm gì: Đếm số visits, pageviews và transactions cho 3 tháng đầu năm 2017
 Insight: Giúp nhìn tổng quan xu hướng traffic tăng/giảm theo tháng
-Query 1: Monthly Traffic Overview (Q1 2017)
-What it does:
 
-Tracks total visits, pageviews, and transactions across January-March 2017
-Aggregates data at monthly level
+Query 1: Monthly Traffic Overview (Q1 2017)
+
+What it does: Tracks total visits, pageviews, and transactions across January-March 2017. Aggregates data at monthly level
 
 Key Insights:
 
@@ -20,6 +19,9 @@ Business Impact:
 Helps forecast resource allocation for peak periods
 Identifies if marketing campaigns in Q1 were effective
 Provides historical benchmarks for year-over-year comparisons
+
+/images/
+
 
 Query 2: Phân tích Bounce Rate theo nguồn traffic (Tháng 7/2017)
 Làm gì:
