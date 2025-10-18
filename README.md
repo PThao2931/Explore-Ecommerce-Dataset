@@ -14,13 +14,70 @@ Seasonality Pattern: Q1 typically shows post-holiday traffic patterns
 Volume Baseline: Establishes baseline metrics for comparison with other periods
 Transaction Rate: Can calculate conversion rate (transactions/visits) to measure sales efficiency
 
-![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
+
 Business Impact:
 
 Helps forecast resource allocation for peak periods
 Identifies if marketing campaigns in Q1 were effective
 Provides historical benchmarks for year-over-year comparisons
 
+![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
+
+# QUERY 1 - KEY INSIGHTS (Concise Summary)
+
+Based on the Q1 2017 results:
+
+```
+201701: 64,694 visits | 257,708 pageviews | 713 transactions
+201702: 62,192 visits | 233,373 pageviews | 733 transactions  
+201703: 69,931 visits | 259,522 pageviews | 993 transactions
+```
+
+---
+
+## **📊 Main Insights:**
+
+### **1. Strong Quarter-End Performance**
+- March showed the best performance across all metrics
+- Visits increased 12.4% from February to March
+- Transactions surged 35.5% (733 → 993), significantly outpacing traffic growth
+- This indicates improving conversion efficiency, not just more traffic
+
+### **2. Improving Conversion Rate Trend**
+- January: 1.10% conversion rate (713/64,694)
+- February: 1.18% conversion rate (733/62,192) 
+- March: 1.42% conversion rate (993/69,931)
+- **29% improvement** from January to March shows successful optimization efforts or better quality traffic
+
+### **3. February Seasonal Dip is Normal**
+- February visits dropped 3.9% from January
+- This is expected due to fewer calendar days (28 vs 31)
+- When adjusted for days: Feb actually had 2,221 visits/day vs Jan's 2,087/day
+- The monthly totals are misleading - daily performance actually improved
+
+### **4. Declining User Engagement**
+- Pages per visit decreased from 3.98 (Jan) → 3.75 (Feb) → 3.71 (Mar)
+- 6.8% decline over the quarter
+- This could indicate: better site navigation (positive), increasing mobile traffic (neutral), or declining content quality (negative)
+- Requires further investigation to determine root cause
+
+### **5. Q1 Overall: Positive Trajectory**
+- Total Q1: 197,017 visits | 850,603 pageviews | 2,439 transactions
+- Quarter ended 8.1% higher in visits than it started
+- Transaction growth (39% from Jan to Mar) far exceeded traffic growth
+- Revenue efficiency is improving - getting more value from each visit
+
+---
+
+## **⚠️ Key Concern:**
+
+The **pages/visit decline** is the only negative trend and needs attention. While conversion is improving, users are browsing less deeply, which could impact future sales if it continues.
+
+---
+
+## **🎯 Bottom Line:**
+
+Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35% transaction growth vs 12% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month.
 
 ##Query 2: Phân tích Bounce Rate theo nguồn traffic (Tháng 7/2017)
 Làm gì:
