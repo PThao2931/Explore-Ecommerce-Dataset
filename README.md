@@ -21,7 +21,7 @@ Identifies if marketing campaigns in Q1 were effective
 Provides historical benchmarks for year-over-year comparisons
 Ảnh màn hình 2025-10-18 lúc 12.28.38.png
 ![Dashboard Overview](Ảnh màn hình 2025-10-18 lúc 12.28.38.png)
-
+![Ảnh mô tả](https://github.com/PThao2931/Explore-Ecommerce-Dataset/commit/91ff8de6ada58408b1ea0345647f367d0af1aa87#diff-ae8ad6c6651ad4d9006c3441359ad8722b86b60f93bd7f490d7097afe927040f)
 
 Query 2: Phân tích Bounce Rate theo nguồn traffic (Tháng 7/2017)
 Làm gì:
