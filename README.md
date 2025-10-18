@@ -20,7 +20,7 @@ Helps forecast resource allocation for peak periods
 Identifies if marketing campaigns in Q1 were effective
 Provides historical benchmarks for year-over-year comparisons
 
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/PThao2931/Explore-Ecommerce-Dataset/commit/4ca749a8180769e794a5c2d80575c8e893539223#diff-23ea71f95072f3560d580b0a9ad878d4821e1ab075b1c5e82adb935fbe9788f7)
 
 
 Query 2: Phân tích Bounce Rate theo nguồn traffic (Tháng 7/2017)
