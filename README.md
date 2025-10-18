@@ -19,7 +19,7 @@ Business Impact:
 Helps forecast resource allocation for peak periods
 Identifies if marketing campaigns in Q1 were effective
 Provides historical benchmarks for year-over-year comparisons
-
+Ảnh màn hình 2025-10-18 lúc 12.28.38.png
 ![Dashboard Overview](Ảnh màn hình 2025-10-18 lúc 12.28.38.png)
 
 
