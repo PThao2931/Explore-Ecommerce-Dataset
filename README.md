@@ -19,6 +19,8 @@ Business Impact:
 Helps forecast resource allocation for peak periods
 Identifies if marketing campaigns in Q1 were effective
 Provides historical benchmarks for year-over-year comparisons
+[
+](https://raw.githubusercontent.com/PThao2931/Explore-Ecommerce-Dataset/4ca749a8180769e794a5c2d80575c8e893539223/Ảnh%20màn%20hình%202025-10-18%20lúc%2012.28.38.png)
 
 
 ![Ảnh mô tả](https://github.com/PThao2931/Explore-Ecommerce-Dataset/commit/91ff8de6ada58408b1ea0345647f367d0af1aa87#diff-ae8ad6c6651ad4d9006c3441359ad8722b86b60f93bd7f490d7097afe927040f)
