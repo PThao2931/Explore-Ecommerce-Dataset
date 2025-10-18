@@ -23,17 +23,6 @@ Provides historical benchmarks for year-over-year comparisons
 
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
 
-# QUERY 1 - KEY INSIGHTS (Concise Summary)
-
-Based on the Q1 2017 results:
-
-```
-201701: 64,694 visits | 257,708 pageviews | 713 transactions
-201702: 62,192 visits | 233,373 pageviews | 733 transactions  
-201703: 69,931 visits | 259,522 pageviews | 993 transactions
-```
-
----
 
 ## **📊 Main Insights:**
 
