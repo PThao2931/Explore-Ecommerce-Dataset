@@ -14,6 +14,7 @@ Seasonality Pattern: Q1 typically shows post-holiday traffic patterns
 Volume Baseline: Establishes baseline metrics for comparison with other periods
 Transaction Rate: Can calculate conversion rate (transactions/visits) to measure sales efficiency
 
+![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
 Business Impact:
 
 Helps forecast resource allocation for peak periods
