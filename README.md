@@ -20,7 +20,7 @@ Helps forecast resource allocation for peak periods
 Identifies if marketing campaigns in Q1 were effective
 Provides historical benchmarks for year-over-year comparisons
 
-/images/
+![Dashboard Overview](images/traffic_overview.png)
 
 
 Query 2: Phân tích Bounce Rate theo nguồn traffic (Tháng 7/2017)
