@@ -1,8 +1,9 @@
 # Ecommerce Project Instruction
 
-## ** Query 1: Monthly Traffic Overview (Q1 2017)***
+## ** Query 1: Monthly Traffic Overview (Q1 2017) **
 
-## What does it is: ## Tracks total visits, pageviews, and transactions across January-March 2017. Aggregates data at monthly level
+## What does it is: ## 
+Tracks total visits, pageviews, and transactions across January-March 2017. Aggregates data at monthly level
 
 Key Insights:
 
