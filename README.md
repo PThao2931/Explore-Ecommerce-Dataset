@@ -11,13 +11,17 @@ This analysis supports resource planning for peak periods, evaluates Q1 marketin
 ### Out come
 
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
+The growth rate is given by: 
 
+Transaction
 $$
 \frac{993 - 733}{733} \times 100 = 35,5\%
 $$ 
 
-The growth rate is given by: 
-$\left( \dfrac{69931 - 62192}{62192} \times 100 = 12.4\% \right)$
+Traffic
+$$
+\frac{69931 - 62192}{62192} \times 100 = 12.4\%
+$$
 
 ### Key Concern:
 
