@@ -1,7 +1,4 @@
 # Ecommerce Project Instruction
-Query 1: Tổng quan traffic theo tháng (Q1/2017)
-Làm gì: Đếm số visits, pageviews và transactions cho 3 tháng đầu năm 2017
-Insight: Giúp nhìn tổng quan xu hướng traffic tăng/giảm theo tháng
 
 Query 1: Monthly Traffic Overview (Q1 2017)
 
