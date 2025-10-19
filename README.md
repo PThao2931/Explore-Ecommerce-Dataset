@@ -25,7 +25,7 @@ $$
 $$ 
 transaction growth vs 
 $$
-\frac{69,931 - 62,192}{62,192} \times 100 = 12.4\%
+\frac{69931 - 62192}{62192} \times 100 = 12.4\%
 $$
 traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month.
 
