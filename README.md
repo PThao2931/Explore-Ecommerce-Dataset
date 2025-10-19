@@ -19,7 +19,11 @@ The **pages/visit decline** is the only **negative** trend and needs attention. 
 
 ### Bottom Line:
 
-Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35% transaction growth vs 12% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month.
+Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance ($$
+\frac{993 - 733}{733} \times 100 = 35,5\%
+$$ transaction growth vs $$
+\frac{69,931 - 62,192}{62,192} \times 100 = 12.4\%
+$$ traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month.
 
 ---
 
