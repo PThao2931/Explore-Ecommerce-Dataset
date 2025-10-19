@@ -11,7 +11,7 @@ This analysis supports resource planning for peak periods, evaluates Q1 marketin
 ### Out come
 
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
-The growth rate is given by: 
+### The growth rate is given by: 
 
 Transaction
 
