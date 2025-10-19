@@ -12,6 +12,9 @@ This analysis supports resource planning for peak periods, evaluates Q1 marketin
 
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
 
+$$
+\frac{993 - 733}{733} \times 100 = 35,5\%
+$$ 
 
 ### Key Concern:
 
