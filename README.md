@@ -2,26 +2,11 @@
 
 ## Query 1: Monthly Traffic Overview (Q1 2017) 
 
-### What does it is: 
-Tracks total visits, pageviews, and transactions across January-March 2017. Aggregates data at monthly level
-
 ### Key Insights:
-
-Trend Analysis: Identifies whether traffic is growing or declining month-over-month
-
-Seasonality Pattern: Q1 typically shows post-holiday traffic patterns
-
-Volume Baseline: Establishes baseline metrics for comparison with other periods
-
-Transaction Rate: Can calculate conversion rate (transactions/visits) to measure sales efficiency
+The report highlights monthly traffic trends for Q1 2017, showing post-holiday fluctuations and seasonal patterns. It establishes baseline metrics for visits, pageviews, and transactions, enabling conversion rate analysis to assess sales performance and user behavior.
 
 ### Business Impact:
-
-Helps forecast resource allocation for peak periods
-
-Identifies if marketing campaigns in Q1 were effective
-
-Provides historical benchmarks for year-over-year comparisons
+This analysis supports resource planning for peak periods, evaluates Q1 marketing effectiveness, and provides historical benchmarks for year-over-year performance tracking.
 
 ### Out come
 
