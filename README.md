@@ -2,10 +2,10 @@
 
 ## Query 1: Monthly Traffic Overview (Q1 2017) 
 
-# What does it is: 
+### What does it is: 
 Tracks total visits, pageviews, and transactions across January-March 2017. Aggregates data at monthly level
 
-# Key Insights:
+### Key Insights:
 
 Trend Analysis: Identifies whether traffic is growing or declining month-over-month
 
@@ -15,7 +15,7 @@ Volume Baseline: Establishes baseline metrics for comparison with other periods
 
 Transaction Rate: Can calculate conversion rate (transactions/visits) to measure sales efficiency
 
-# Business Impact:
+### Business Impact:
 
 Helps forecast resource allocation for peak periods
 
@@ -23,18 +23,18 @@ Identifies if marketing campaigns in Q1 were effective
 
 Provides historical benchmarks for year-over-year comparisons
 
-# Out come
+### Out come
 
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
 
 
-# Key Concern:
+### Key Concern:
 
 The **pages/visit decline** is the only **negative** trend and needs attention. While conversion is improving, users are browsing less deeply, which could impact future sales if it continues.
 
 ---
 
-# Bottom Line:
+### Bottom Line:
 
 Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35% transaction growth vs 12% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month.
 
