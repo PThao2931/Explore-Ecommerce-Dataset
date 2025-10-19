@@ -32,11 +32,11 @@ Provides historical benchmarks for year-over-year comparisons
 
 The **pages/visit decline** is the only **negative** trend and needs attention. While conversion is improving, users are browsing less deeply, which could impact future sales if it continues.
 
----
-
 ### Bottom Line:
 
 Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35% transaction growth vs 12% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month.
+
+---
 
 ##Query 2: Phân tích Bounce Rate theo nguồn traffic (Tháng 7/2017)
 Làm gì:
