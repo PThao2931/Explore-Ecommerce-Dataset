@@ -16,6 +16,9 @@ $$
 \frac{993 - 733}{733} \times 100 = 35,5\%
 $$ 
 
+The growth rate is given by: 
+$\left( \dfrac{69931 - 62192}{62192} \times 100 = 12.4\% \right)$
+
 ### Key Concern:
 
 The **pages/visit decline** is the only **negative** trend and needs attention. While conversion is improving, users are browsing less deeply, which could impact future sales if it continues.
