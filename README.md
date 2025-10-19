@@ -14,11 +14,13 @@ This analysis supports resource planning for peak periods, evaluates Q1 marketin
 The growth rate is given by: 
 
 Transaction
+
 $$
 \frac{993 - 733}{733} \times 100 = 35,5\%
 $$ 
 
 Traffic
+
 $$
 \frac{69931 - 62192}{62192} \times 100 = 12.4\%
 $$
