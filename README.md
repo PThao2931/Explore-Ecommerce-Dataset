@@ -8,6 +8,8 @@ The report highlights monthly traffic trends for Q1 2017, showing post-holiday f
 ### Business Impact:
 This analysis supports resource planning for peak periods, evaluates Q1 marketing effectiveness, and provides historical benchmarks for year-over-year performance tracking.
 
+These insights will also guide optimization of Q2 marketing campaigns, landing page structure, and content relevance to sustain conversion efficiency improvements.
+
 ### Out come
 
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
@@ -27,11 +29,11 @@ $$
 
 ### Key Concern:
 
-The **pages/visit decline** is the only **negative** trend and needs attention. While conversion is improving, users are browsing less deeply, which could impact future sales if it continues.
+The **pages/visit decline** is the only **negative** trend and needs attention. While conversion is improving, users may be browsing less deeply, possibly due to **content relevance or site navigation issues**, which could impact future sales if it continues.
 
 ### Bottom Line:
 
-Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35,5% transaction growth vs 12.4% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month.
+Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35,5% transaction growth vs 12.4% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month, and should focus next on enhancing engagement depth to maximize long-term value per visitor.
 
 ---
 
