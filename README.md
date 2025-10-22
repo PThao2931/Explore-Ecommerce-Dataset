@@ -39,6 +39,8 @@ Q1 2017 shows **healthy growth with improving conversion efficiency**. March's e
 
 ## Query 2: Bounce Rate by Traffic Source (July 2017)
 ### What it does:
+Calculates bounce rate for each traffic source (Google, Direct, Referral, Social, etc.)
+Ranks sources by total visit volume
 
 Tính tổng visits và bounces từ mỗi nguồn traffic (Google, direct, referral...)
 Tính bounce rate = (số bounces / tổng visits) × 100
@@ -47,8 +49,7 @@ Insight: Nguồn traffic nào có bounce rate cao → chất lượng traffic k�
 Query 2: 
 What it does:
 
-Calculates bounce rate for each traffic source (Google, Direct, Referral, Social, etc.)
-Ranks sources by total visit volume
+
 
 Key Insights:
 
