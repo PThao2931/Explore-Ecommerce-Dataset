@@ -1,3 +1,16 @@
+```sql
+SELECT
+  trafficSource.source,
+  COUNT(*) AS total_visits,  -- Sửa lại
+  COUNTIF(totals.bounces = 1) AS total_no_of_bounces,
+  ROUND(COUNTIF(totals.bounces = 1) * 100.0 / COUNT(*), 3) AS bounce_rate
+FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201707*`
+GROUP BY trafficSource.source
+ORDER BY total_visits DESC;
+```
+
+
+
 --Query1
 ```sql
 SELECT FORMAT_DATE('%Y%m',PARSE_DATE('%Y%m%d',date)) as month
