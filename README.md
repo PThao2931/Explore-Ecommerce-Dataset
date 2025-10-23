@@ -11,7 +11,6 @@ This analysis supports resource planning for peak periods, evaluates Q1 marketin
 These insights will also guide optimization of Q2 marketing campaigns, landing page structure, and content relevance to sustain conversion efficiency improvements.
 
 ### Out come
-
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
 ### The growth rate is given by: 
 
@@ -28,11 +27,9 @@ $$
 $$
 
 ### Key Concern:
-
 The **pages/visit decline** is the only **negative** trend and needs attention. While conversion is improving, users may be browsing less deeply, possibly due to **content relevance or site navigation issues**, which could impact future sales if it continues.
 
 ### Bottom Line:
-
 Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35,5% transaction growth vs 12.4% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month, and should focus next on enhancing engagement depth to maximize long-term value per visitor.
 
 ---
@@ -56,7 +53,6 @@ This analysis optimizes marketing budget allocation by focusing on channels with
 - blog.golang.org: 29.231% (65 visits)
 
 #### Poor Engagement (Highest Bounce Rate - significant traffic):
-
 - duckduckgo.com: 87.5% (16 visits)
 - l.facebook.com: 88.235% (51 visits)
 - youtube.com: 66.73% (6,351 visits)
