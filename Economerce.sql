@@ -1,18 +1,6 @@
-'''sql
-SELECT
-  trafficSource.source,
-  COUNT(*) AS total_visits,  -- Sửa lại
-  COUNTIF(totals.bounces = 1) AS total_no_of_bounces,
-  ROUND(COUNTIF(totals.bounces = 1) * 100.0 / COUNT(*), 3) AS bounce_rate
-FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201707*`
-GROUP BY trafficSource.source
-ORDER BY total_visits DESC;
-'''
-
 
 
 --Query1
-```sql
 SELECT FORMAT_DATE('%Y%m',PARSE_DATE('%Y%m%d',date)) as month
         ,count(visitNumber) as visits
         ,sum(totals.pageviews) as pageviews
@@ -21,17 +9,16 @@ FROM `bigquery-public-data.google_analytics_sample.ga_sessions_2017*`
 where date between '20170101' and '20170331'
 group by month
 order by month
-```
+  
 --Query2
 SELECT 
     trafficSource.source
-    ,sum(totals.visits) as total_visits
-    ,sum(totals.bounces) as total_no_of_bounces
-    ,round((sum(totals.bounces)*100/sum(totals.visits)),3) as bounces_rate
+    ,SUM(totals.visits) as total_visits
+    ,SUM(totals.bounces) as total_no_of_bounces 
+    ,ROUND(SUM(totals.bounces) * 100.0 / SUM(totals.visits), 3) as bounce_rate
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201707*`
-where FORMAT_DATE('%m',PARSE_DATE('%Y%m%d',date)) = '07'
-group by trafficSource.source
-order by total_visits desc
+GROUP BY trafficSource.source
+ORDER BY total_visits DESC
 
 --Query3
 select 'Month' as time_type
