@@ -1,3 +1,4 @@
+'''sql
 --Query1
 SELECT FORMAT_DATE('%Y%m',PARSE_DATE('%Y%m%d',date)) as month
         ,count(visitNumber) as visits
@@ -7,7 +8,7 @@ FROM `bigquery-public-data.google_analytics_sample.ga_sessions_2017*`
 where date between '20170101' and '20170331'
 group by month
 order by month
-
+'''
 --Query2
 SELECT 
     trafficSource.source
