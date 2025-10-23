@@ -49,7 +49,8 @@ Insight: Nguồn traffic nào có bounce rate cao → chất lượng traffic k�
 Query 2: 
 What it does:
 
-
+### Out come
+![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query2.png)
 
 Key Insights:
 
