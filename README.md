@@ -2,7 +2,7 @@
 
 ## Query 1: Monthly Traffic Overview (Q1 2017) 
 
-### What it does:
+### Key Insights:
 The report highlights monthly traffic trends for Q1 2017, showing post-holiday fluctuations and seasonal patterns. It establishes baseline metrics for visits, pageviews, and transactions, enabling conversion rate analysis to assess sales performance and user behavior.
 
 ### Business Impact:
@@ -35,32 +35,29 @@ Q1 2017 shows **healthy growth with improving conversion efficiency**. March's e
 ---
 
 ## Query 2: Bounce Rate by Traffic Source (July 2017)
-### What it does:
-Calculates bounce rate for each traffic source (Google, Direct, Referral, Social, etc.)
-Ranks sources by total visit volume
+### Key Insights:
+This analysis examines bounce rate performance across major traffic sources (Google, Direct, Referral, Social, etc.) to evaluate user engagement quality and landing page effectiveness.
+Results show that while Direct and Organic Search traffic deliver stable engagement, social and video channels (YouTube, Facebook) exhibit significantly higher bounce rates, indicating potential content or targeting misalignment.
 
-### Business Impact:
-This analysis optimizes marketing budget allocation by focusing on channels with low bounce rates (high engagement), while adjusting strategies for high bounce rate sources to improve ROI and user experience.
+This query explores how user engagement differs across traffic sources, by comparing the proportion of single-page sessions (bounces) against total visits.
+It helps identify which channels bring high-intent, engaged visitors, and which ones may attract unqualified or poorly targeted traffic — guiding both marketing optimization and budget allocation decisions.
 
 ### Out come
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query2.png)
 (Top 10 traffic sources by visit volume)
 
 ### Top & Bottom Performers:
-#### Best Engagement (Lowest Bounce Rate):
-- mail.google.com: 24.752% (101 visits)
-- reddit.com: 28.571% (189 visits)
-- blog.golang.org: 29.231% (65 visits)
-
-#### Poor Engagement (Highest Bounce Rate - significant traffic):
-- duckduckgo.com: 87.5% (16 visits)
-- l.facebook.com: 88.235% (51 visits)
-- youtube.com: 66.73% (6,351 visits)
+•	Best Engagement: Direct, Google Search, and Reddit (bounce <45%).
+•	Poor Engagement: YouTube and Facebook (bounce >65%), indicating misalignment between ad targeting and landing page content.
 
 ### Key Concern:
 **YouTube's traffic quality** requires immediate attention. Despite being the 3rd largest traffic source (6,351 visits), it has a high bounce rate (66.73%), indicating content or landing page misalignment with user expectations from YouTube. This represents significant untapped potential requiring optimization.
 ### Bottom Line:
 **Direct and organic search traffic** deliver the best quality with bounce rates under 52%. **Reddit and email referrals** show exceptional engagement (bounce rates <30%), indicating high-quality traffic worth increased investment. **Social media traffic** (YouTube, Facebook) shows elevated bounce rates (>53%), requiring landing page and content strategy optimization to improve conversion efficiency.
+
+### Business Impact:
+This analysis optimizes marketing budget allocation by focusing on channels with low bounce rates (high engagement), while adjusting strategies for high bounce rate sources to improve ROI and user experience.
+
 ### Action Items:
 Sources with >70% bounce rate need landing page optimization
 Low bounce + high volume sources deserve increased investment
