@@ -1,4 +1,4 @@
-```sql
+'''sql
 SELECT
   trafficSource.source,
   COUNT(*) AS total_visits,  -- Sửa lại
@@ -7,7 +7,7 @@ SELECT
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201707*`
 GROUP BY trafficSource.source
 ORDER BY total_visits DESC;
-```
+'''
 
 
 
