@@ -42,29 +42,31 @@ Q1 2017 shows **healthy growth with improving conversion efficiency**. March's e
 Calculates bounce rate for each traffic source (Google, Direct, Referral, Social, etc.)
 Ranks sources by total visit volume
 
-Tính tổng visits và bounces từ mỗi nguồn traffic (Google, direct, referral...)
-Tính bounce rate = (số bounces / tổng visits) × 100
-
-Insight: Nguồn traffic nào có bounce rate cao → chất lượng traffic kém, cần tối ưu
-Query 2: 
-What it does:
+### Business Impact:
+This analysis optimizes marketing budget allocation by focusing on channels with low bounce rates (high engagement), while adjusting strategies for high bounce rate sources to improve ROI and user experience.
 
 ### Out come
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query2.png)
+(Top 10 traffic sources by visit volume)
 
-Key Insights:
+### Top & Bottom Performers:
+#### Best Engagement (Lowest Bounce Rate):
+- mail.google.com: 24.752% (101 visits)
+- reddit.com: 28.571% (189 visits)
+- blog.golang.org: 29.231% (65 visits)
 
-Traffic Quality Assessment: High bounce rate = poor traffic quality or irrelevant landing pages
-Channel Performance: Identifies which marketing channels deliver engaged users
-ROI Optimization: Helps allocate budget to high-quality traffic sources
-Landing Page Issues: High bounce rates may indicate page load speed problems or poor UX
+#### Poor Engagement (Highest Bounce Rate - significant traffic):
 
-Typical Patterns:
+- duckduckgo.com: 87.5% (16 visits)
+- l.facebook.com: 88.235% (51 visits)
+- youtube.com: 66.73% (6,351 visits)
 
-Direct traffic: Usually 20-40% bounce rate (familiar users)
-Paid search: 30-50% (depends on keyword relevance)
-Display ads: 60-80% (often less qualified traffic)
-Organic search: 40-60% (intent-driven)
+### Key Concern:
+YouTube's traffic quality requires immediate attention. Despite being the 3rd largest traffic source (6,351 visits), it has a high bounce rate (66.73%), indicating content or landing page misalignment with user expectations from YouTube. This represents significant untapped potential requiring optimization.
+### Bottom Line:
+Direct and organic search traffic deliver the best quality with bounce rates under 52%. Reddit and email referrals show exceptional engagement (bounce rates <30%), indicating high-quality traffic worth increased investment. Social media traffic (YouTube, Facebook) shows elevated bounce rates (>53%), requiring landing page and content strategy optimization to improve conversion efficiency.
+
+
 
 Action Items:
 
