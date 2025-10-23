@@ -1,5 +1,5 @@
-```sql
 --Query1
+```sql
 SELECT FORMAT_DATE('%Y%m',PARSE_DATE('%Y%m%d',date)) as month
         ,count(visitNumber) as visits
         ,sum(totals.pageviews) as pageviews
