@@ -36,9 +36,6 @@ Q1 2017 shows **healthy growth with improving conversion efficiency**. March's e
 
 ## Query 2: Bounce Rate by Traffic Source (July 2017)
 ### Key Insights:
-This analysis examines bounce rate performance across major traffic sources (Google, Direct, Referral, Social, etc.) to evaluate user engagement quality and landing page effectiveness.
-Results show that while Direct and Organic Search traffic deliver stable engagement, social and video channels (YouTube, Facebook) exhibit significantly higher bounce rates, indicating potential content or targeting misalignment.
-
 This query explores how user engagement differs across traffic sources, by comparing the proportion of single-page sessions (bounces) against total visits.
 It helps identify which channels bring high-intent, engaged visitors, and which ones may attract unqualified or poorly targeted traffic — guiding both marketing optimization and budget allocation decisions.
 
