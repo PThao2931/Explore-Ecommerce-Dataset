@@ -62,8 +62,12 @@ A consistently high bounce rate across paid or referral channels translates into
 Improving landing page alignment for just one high-volume source (e.g., YouTube) could recover thousands of engaged sessions per month, directly improving ROI and reducing acquisition cost per qualified visit.
 
 ### Action Items:
-Sources with >70% bounce rate need landing page optimization
-Low bounce + high volume sources deserve increased investment
+- Sources with >70% bounce rate need landing page optimization
+- Low bounce + high volume sources deserve increased investment
+	•	Redesign or A/B test landing pages for YouTube and Facebook campaigns — focus on faster load times, clearer headlines, and stronger call-to-action relevance.
+	•	Shift investment toward low-bounce, high-performing channels (Google, Direct) to maximize marketing efficiency.
+	•	Refine audience targeting for high-bounce channels to attract more relevant users.
+	•	Monitor bounce trends monthly to measure the effect of landing page and targeting optimizations.
 
 
 Key Concern
@@ -88,10 +92,7 @@ Business Impact
 ⸻
 
 Action Items
-	•	Redesign or A/B test landing pages for YouTube and Facebook campaigns — focus on faster load times, clearer headlines, and stronger call-to-action relevance.
-	•	Shift investment toward low-bounce, high-performing channels (Google, Direct) to maximize marketing efficiency.
-	•	Refine audience targeting for high-bounce channels to attract more relevant users.
-	•	Monitor bounce trends monthly to measure the effect of landing page and targeting optimizations.
+
 
 ## Query 3: Revenue by Traffic Source (June 2017)
 Làm gì:
