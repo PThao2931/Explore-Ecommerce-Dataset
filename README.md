@@ -44,9 +44,14 @@ It helps identify which channels bring high-intent, engaged visitors, and which 
 (Top 10 traffic sources by visit volume)
 
 ### Top & Bottom Performers:
-•	Best Engagement: Direct, Google Search, and Reddit (bounce <45%).
-•	Poor Engagement: YouTube and Facebook (bounce >65%), indicating misalignment between ad targeting and landing page content.
-
+#### Best Engagement (Lowest Bounce Rate):
+- mail.google.com: 24.752% (101 visits)
+- reddit.com: 28.571% (189 visits)
+- blog.golang.org: 29.231% (65 visits)
+#### Poor Engagement (Highest Bounce Rate - significant traffic):
+- duckduckgo.com: 87.5% (16 visits)
+- l.facebook.com: 88.235% (51 visits)
+- youtube.com: 66.73% (6,351 visits)
 ### Key Concern:
 **YouTube's traffic quality** requires immediate attention. Despite being the 3rd largest traffic source (6,351 visits), it has a high bounce rate (66.73%), indicating content or landing page misalignment with user expectations from YouTube. This represents significant untapped potential requiring optimization.
 ### Bottom Line:
