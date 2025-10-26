@@ -5,11 +5,6 @@
 ### Key Insights:
 The report highlights monthly traffic trends for Q1 2017, showing post-holiday fluctuations and seasonal patterns. It establishes baseline metrics for visits, pageviews, and transactions, enabling conversion rate analysis to assess sales performance and user behavior.
 
-### Business Impact:
-This analysis supports resource planning for peak periods, evaluates Q1 marketing effectiveness, and provides historical benchmarks for year-over-year performance tracking.
-
-These insights will also guide optimization of Q2 marketing campaigns, landing page structure, and content relevance to sustain conversion efficiency improvements.
-
 ### Out come
 ![result](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/query1.png)
 ### The growth rate is given by: 
@@ -31,6 +26,9 @@ The **pages/visit decline** is the only **negative** trend and needs attention. 
 
 ### Bottom Line:
 Q1 2017 shows **healthy growth with improving conversion efficiency**. March's exceptional performance (35,5% transaction growth vs 12.4% traffic growth) suggests either successful marketing campaigns, better product-market fit, or effective UX improvements. The company is moving in the right direction, converting traffic more efficiently each month, and should focus next on enhancing engagement depth to maximize long-term value per visitor.
+
+### Business Impact:
+Understanding monthly traffic patterns enables accurate resource allocation and  budget planning. The 35.5% transaction growth in March represents significant  revenue acceleration that, if sustained, could increase quarterly revenue by  20-25%. Identifying the declining pages/visit trend early prevents potential  conversion losses that could impact thousands of transactions in Q2.
 
 ### Action Items:
 - Investigate declining pages/visit trend through content relevance and UX path analysis.
