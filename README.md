@@ -64,35 +64,10 @@ Improving landing page alignment for just one high-volume source (e.g., YouTube)
 ### Action Items:
 - Sources with >70% bounce rate need landing page optimization
 - Low bounce + high volume sources deserve increased investment
-	•	Redesign or A/B test landing pages for YouTube and Facebook campaigns — focus on faster load times, clearer headlines, and stronger call-to-action relevance.
-	•	Shift investment toward low-bounce, high-performing channels (Google, Direct) to maximize marketing efficiency.
-	•	Refine audience targeting for high-bounce channels to attract more relevant users.
-	•	Monitor bounce trends monthly to measure the effect of landing page and targeting optimizations.
-
-
-Key Concern
-
-YouTube traffic (6,351 visits) has a significantly higher bounce rate (66.73%) compared to the site average.
-This suggests a mismatch between the ad message or video context and the landing page, causing users to leave without interaction.
-Similarly, mobile Facebook traffic also underperforms (64.28%), possibly due to weak content relevance or slower mobile experience.
-
-⸻
-
-Bottom Line
-
-While Direct and Organic Search channels deliver steady, high-quality traffic with lower bounce rates, Social and Video platforms contribute a large share of visitors who leave immediately.
-This pattern highlights the need to align ad messaging, audience targeting, and landing page experience — otherwise, paid efforts on high-volume channels like YouTube could generate cost without meaningful engagement.
-
-⸻
-
-Business Impact
-
-
-
-⸻
-
-Action Items
-
+- Redesign or A/B test landing pages for YouTube and Facebook campaigns — focus on faster load times, clearer headlines, and stronger call-to-action relevance.
+- Shift investment toward low-bounce, high-performing channels (Google, Direct) to maximize marketing efficiency.
+- Refine audience targeting for high-bounce channels to attract more relevant users.
+- Monitor bounce trends monthly to measure the effect of landing page and targeting optimizations.
 
 ## Query 3: Revenue by Traffic Source (June 2017)
 Làm gì:
