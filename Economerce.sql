@@ -15,7 +15,7 @@ SELECT
     trafficSource.source
     ,SUM(totals.visits) as total_visits
     ,SUM(totals.bounces) as total_no_of_bounces 
-    ,ROUND(SUM(totals.bounces) * 100.0 / SUM(totals.visits), 3) as bounce_rate
+    ,ROUND(SUM(totals.bounces) * 100 / SUM(totals.visits), 3) as bounce_rate
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201707*`
 GROUP BY trafficSource.source
 ORDER BY total_visits DESC
