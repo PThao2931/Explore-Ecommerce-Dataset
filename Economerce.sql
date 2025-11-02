@@ -21,26 +21,40 @@ GROUP BY trafficSource.source
 ORDER BY total_visits DESC
 
 --Query3
-select 'Month' as time_type
-      ,FORMAT_DATE("%Y%m",PARSE_DATE('%Y%m%d',date)) Month
-      ,trafficSource.source
-      ,ROUND((sum(productRevenue)/1000000),4) as Revenue
-From `bigquery-public-data.google_analytics_sample.ga_sessions_2017*`
-    ,UNNEST(hits)
-    ,UNNEST(product)
-where date between '20170601' and '20170630'
-group by Month, source
-union all 
-        select 'Week' as time_type
-               ,FORMAT_DATE('%Y%W',PARSE_DATE('%Y%m%d',date)) week
-               ,trafficSource.source
-               ,ROUND((sum(productRevenue)/1000000),4) as Revenue
-        from `bigquery-public-data.google_analytics_sample.ga_sessions_2017*`
-            ,UNNEST(hits)
-            ,UNNEST(product)
-        where date between '20170601' and '20170630'
-group by week, source
-order by Revenue desc
+WITH base_data AS (
+  -- Single scan of data
+  SELECT 
+    FORMAT_DATE("%Y%m", PARSE_DATE('%Y%m%d', date)) as Month,
+    FORMAT_DATE('%Y-W%W', PARSE_DATE('%Y%m%d', date)) as Week,
+    trafficSource.source,
+    product.productRevenue
+  FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201706*`,
+    UNNEST(hits) as hits,
+    UNNEST(hits.product) as product
+  WHERE product.productRevenue IS NOT NULL  -- Filter early
+)
+
+-- Month aggregation
+SELECT 
+  'Month' as time_type,
+  Month as time_period,
+  source,
+  ROUND(SUM(productRevenue) / 1000000, 4) as Revenue
+FROM base_data
+GROUP BY Month, source
+
+UNION ALL
+
+-- Week aggregation
+SELECT 
+  'Week' as time_type,
+  Week as time_period,
+  source,
+  ROUND(SUM(productRevenue) / 1000000, 4) as Revenue
+FROM base_data
+GROUP BY Week, source
+
+ORDER BY time_type, Revenue DESC
 
 --Query4
 WITH purchase as
