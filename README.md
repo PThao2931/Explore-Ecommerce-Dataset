@@ -57,11 +57,9 @@ It helps identify which channels bring high-intent, engaged visitors, and which 
 **YouTube's traffic quality** requires immediate attention. Despite being the 3rd largest traffic source (6,351 visits), it has a high bounce rate (66.73%), indicating content or landing page misalignment with user expectations from YouTube. This represents significant untapped potential requiring optimization.
 ### Bottom Line:
 **Direct and organic search traffic** deliver the best quality with bounce rates under 52%. **Reddit and email referrals** show exceptional engagement (bounce rates <30%), indicating high-quality traffic worth increased investment. **Social media traffic** (YouTube, Facebook) shows elevated bounce rates (>53%), requiring landing page and content strategy optimization to improve conversion efficiency.
-
 ### Business Impact:
 A consistently high bounce rate across paid or referral channels translates into lost conversion opportunities and wasted ad spend.
 Improving landing page alignment for just one high-volume source (e.g., YouTube) could recover thousands of engaged sessions per month, directly improving ROI and reducing acquisition cost per qualified visit.
-
 ### Action Items:
 - Sources with >70% bounce rate need landing page optimization
 - Low bounce + high volume sources deserve increased investment
@@ -71,6 +69,23 @@ Improving landing page alignment for just one high-volume source (e.g., YouTube)
 - Monitor bounce trends monthly to measure the effect of landing page and targeting optimizations.
 
 ## Query 3: Revenue by Traffic Source (June 2017)
+### Key Insights:
+This analysis examines revenue generation across traffic sources in June 2017, showing both monthly and weekly patterns. Direct traffic dominates at $97,333 (76% of total revenue), while Google and DFA contribute $27,619 combined (22%).
+### Out come
+
+### Key Concern:
+Over-dependence on direct traffic (76%) creates attribution blindness and scaling limitations. Week 24's anomalous spike to $42.5K (double normal weeks) requires investigation—understanding this surge is critical for replication.
+### Bottom Line:
+June 2017 generated $128K in revenue with extreme concentration in direct traffic. While this indicates strong brand loyalty, only 21% comes from measurable, scalable paid channels. Week 24's performance shows 60-70% revenue upside potential if consistently achieved across all channels.
+### Business Impact:
+Heavy direct traffic reliance limits marketing optimization and creates revenue volatility ($10K-$42K weekly swings). If Week 24 performance were sustained, monthly revenue could reach $170K—a 33% increase. Current attribution gaps prevent identifying and scaling successful tactics.
+### Action Items:
+Investigate Week 24 spike to identify replicable drivers (promotions, campaigns, seasonality)
+Implement UTM tracking to properly attribute direct traffic to original marketing sources
+Increase investment in Google/DFA channels to diversify from 76% direct to 60% target
+Set $25K weekly baseline with strategies to achieve consistent Week 24-level performance
+Segment direct traffic by customer type and device to optimize high-value segments
+Test budget allocation on underperforming channels (YouTube, Bing) for expansion opportunities
 Làm gì:
 
 Tính revenue từng nguồn traffic theo 2 góc độ: theo tháng và theo tuần
